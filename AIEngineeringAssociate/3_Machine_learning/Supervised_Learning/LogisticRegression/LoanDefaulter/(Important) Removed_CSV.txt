@@ -1,0 +1,4 @@
+The following are removed excel files:
+
+-application_data.csv
+-previous_application.csv
